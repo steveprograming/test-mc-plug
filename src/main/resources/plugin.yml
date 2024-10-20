@@ -1,6 +1,6 @@
 name: TemplatePlugin
 author: Maxlego08
-main: fr.maxlego08.template.Template
+main: com.filip.Morph.main
 website: https://groupez.dev
 description: Default plugin developed by GroupeZ
 version: 1.0.0
